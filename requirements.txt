@@ -1,0 +1,16 @@
+torch 
+transformers 
+gradio 
+nltk 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+wordcloud 
+sentence-transformers 
+shap 
+newspaper3k 
+reportlab 
+langdetect 
+deep-translator 
+requests
